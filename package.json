@@ -1,5 +1,5 @@
 {
-    "name": "asterisk-manager",
+    "name": "@voxoco/asterisk-manager",
     "author": "Philipp Dunkel <philipp.dunkel@gmail.com>",
     "maintainers": [
         {
@@ -19,9 +19,9 @@
     "main": "index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/pipobscure/NodeJS-AsteriskManager.git"
+        "url": "https://github.com/voxoco/NodeJS-AsteriskManager.git"
     },
-    "publishConfig": { 
-        "registry": "https://npm.pkg.github.com/" 
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/"
     }
 }
