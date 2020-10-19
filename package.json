@@ -20,5 +20,8 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/pipobscure/NodeJS-AsteriskManager.git"
+    },
+    "publishConfig": { 
+        "registry": "https://npm.pkg.github.com/" 
     }
 }
